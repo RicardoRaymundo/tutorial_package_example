@@ -2,6 +2,9 @@
 
 * Explicações sobre as alterações
 
+## [0.0.3] - 19/11/2019.
+
+*  README.md atualizado e padronizado
 
 ## [0.0.2] - 19/11/2019.
 

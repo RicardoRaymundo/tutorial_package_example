@@ -108,18 +108,14 @@ Implementar o código fonte do pacote na pasta lib. [Código utilizado](https://
 
     dependencies:
 
-
+```
      ...
-
-
+     
      nome_do_pacote:
-
-
        path: ../
-
-
-...  
-
+    
+    ...  
+```
 
 
 3.  Publicar o pacote em pub.dev 
