@@ -111,10 +111,13 @@ Primeiro Header | Segundo Header
 Conteúdo da célula 1 | Conteúdo da célula 2
 Conteúdo da primeira coluna | Conteúdo da segunda coluna 
 
+## Mencionando issues de um repositórios
+Para mencionar um issue - #numero_do_issue
+
 ## @menções de nome de usuário
-@RicardoRaymundo
+__Em comentários__ é possivel mencionar um usuário ao digitar um @ com o nome de usuário
+em seguida, exemplo: @RicardoRaymundo
 
-@use-pattern
-
-@Padrão USE
+## Link automático para URLs
+http://www.github.com/
 
