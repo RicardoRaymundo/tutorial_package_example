@@ -19,10 +19,24 @@
 ###### h6
 
 ## Ênfase
+
+```
+*Texto em itálico*
+
+_Outro texto em itálico_
+```
 *Texto em itálico*
 
 _Outro texto em itálico_
 
+
+```
+**Texto em negrito**
+
+__Outro texto em negrito__
+
+_Você **pode** combina-los_
+```
 **Texto em negrito**
 
 __Outro texto em negrito__
