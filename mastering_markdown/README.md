@@ -114,3 +114,7 @@ Conteúdo da primeira coluna | Conteúdo da segunda coluna
 ## @menções de nome de usuário
 @RicardoRaymundo
 
+@use-pattern
+
+@Padrão USE
+
