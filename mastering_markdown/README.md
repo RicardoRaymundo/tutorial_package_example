@@ -96,3 +96,21 @@ Ou pode-se identar o código com __4 espacos__ do começo da linha
 - [x] sintaxe da lista necessária (qualquer lista não ordenada ou ordenada é suportada)
 - [x] Este é um item completo
 - [ ] Este é um item incompleto
+
+## Tabelas
+
+```
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+```
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
+#1
+mojombo#1
+mojombo/github-flavored-markdown#1
