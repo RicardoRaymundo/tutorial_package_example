@@ -100,17 +100,17 @@ Ou pode-se identar o código com __4 espacos__ do começo da linha
 ## Tabelas
 
 ```
-First Header | Second Header
+Primeiro Header | Segundo Header
 ------------ | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+Conteúdo da célula 1 | Conteúdo da célula 2
+Conteúdo da primeira coluna | Conteúdo da segunda coluna 
 ```
 
-First Header | Second Header
+Primeiro Header | Segundo Header
 ------------ | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+Conteúdo da célula 1 | Conteúdo da célula 2
+Conteúdo da primeira coluna | Conteúdo da segunda coluna 
 
-#1
-mojombo#1
-mojombo/github-flavored-markdown#1
+## @menções de nome de usuário
+@RicardoRaymundo
+
