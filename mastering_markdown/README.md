@@ -46,12 +46,25 @@ _Você **pode** combina-los_
 ## Listas
 
 ### Não ordenadas
+```
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
+```
 * Item 1
 * Item 2
   * Item 2a
   * Item 2b
   
 ### Ordenadas
+```
+1. Item 1
+1. Item 2
+1. Item 3
+   1. Item 3a
+   1. Item 3b
+```
 1. Item 1
 1. Item 2
 1. Item 3
@@ -60,16 +73,22 @@ _Você **pode** combina-los_
    
 ## Citações em bloco
 Como diria Tim Maia:
-
+```
+> Uh uh uh,
+> Que beleza!
+```
 > Uh uh uh,
 > Que beleza!
 
 ## Código embutido
+```
+Eu acho que você deveria usar um
+elemento `<addr>` aqui em vez disso.
+```
 Eu acho que você deveria usar um
 elemento `<addr>` aqui em vez disso.
 
-It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
-
+É muito facil fazer palavras em **negrito** e outras em *itálico* com Markdown. Voce pode até [linkar o Google](http://google.com)
 # Markdown com sabor do GitHub
 ## Realce de sintaxe
 Envolva o código em __3 crases__ ``` para fazer um bloco de código, exemplo:
