@@ -4,9 +4,12 @@
 # Guia de Sintaxe
 
 ## Headers
+```
 # isso é uma <h1> tag
 ## isso é uma <h2> tag
 ###### isso é uma <h6> tag
+```
+
 
 ## Ênfase
 *Texto em itálico*
