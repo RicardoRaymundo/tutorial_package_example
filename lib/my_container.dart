@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 
+// TODO:: Criar pacote com este componente
+
 class MyContainer extends StatefulWidget {
   @override
   _MyContainerState createState() => _MyContainerState();
