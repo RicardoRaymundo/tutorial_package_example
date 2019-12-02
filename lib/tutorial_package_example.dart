@@ -1,8 +1,15 @@
 library tutorial_package_example;
 
 import 'package:flutter/material.dart';
+export 'my_container.dart';
 
 class TutorialPackageExample {
+ /* static Widget myTest(){
+    return Container(
+      color: Colors.green,
+      height: 200,
+    );
+  }*/
   static Future showCustomAlertBox({
     @required BuildContext context,
     @required Widget willDisplayWidget,
