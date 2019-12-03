@@ -1,7 +1,8 @@
 library tutorial_package_example;
 
 import 'package:flutter/material.dart';
-export 'my_container.dart';
+export 'comment.dart';
+export 'add_task.dart';
 
 class TutorialPackageExample {
  /* static Widget myTest(){

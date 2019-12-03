@@ -3,13 +3,12 @@ import 'package:flutter/widgets.dart';
 
 // TODO:: Criar pacote com este componente
 
-class MyContainer extends StatefulWidget {
+class Comment extends StatefulWidget {
   @override
-  _MyContainerState createState() => _MyContainerState();
+  _CommentState createState() => _CommentState();
 }
 
-class _MyContainerState extends State<MyContainer> {
-  // Initialise outside the build method
+class _CommentState extends State<Comment> {
   FocusNode focusNode = FocusNode(canRequestFocus: false);
   int maxLine = 1;
   bool isExpanded = false;
