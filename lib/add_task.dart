@@ -159,9 +159,10 @@ class _AddTaskState extends State<AddTask> {
           padding: const EdgeInsets.all(15.0),
           child: Text('Subtarefas'),
         ),
+        Divider(),
         Container(
           child: Table(
-              border: TableBorder.all(),
+              border: TableBorder.all(width: 1, color: Colors.blue),
 
             /// Máximo: 1.0
             columnWidths: {1: FractionColumnWidth(0.2)},
