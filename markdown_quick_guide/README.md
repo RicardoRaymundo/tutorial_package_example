@@ -9,7 +9,7 @@
 |  | Markdown | Resultado |
 |---|----------|-----------|
 |Headers  |`# h1` <br> `## h2` <br> `### h3` <br> `#### h4` <br> `##### h5` <br> `###### h6`  | <h1>h1</h1> <h2>h2</h2> <h3>h3</h3> <h4>h4</h4> <h5>h5</h5> <h6>h6</h6>|
-|Ênfases  |`*itálico*` `_itálico_` <hr> `**negrito**` `__negrito__`  |*_itálico_*  _itálico_ <hr> **negrito** __negrito__ <hr> ˜˜negrito˜˜|
+|Ênfases  |`*itálico*` `_itálico_` <hr> `**negrito**` `__negrito__`  <hr> `~~tachado~~` |*_itálico_*  _itálico_ <hr> **negrito** __negrito__ <hr> ~~tachado~~ ~tachadu~|
 |  |  |  |
 |  |  |  |
 |  |  |  |
