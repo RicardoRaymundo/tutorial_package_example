@@ -17,7 +17,7 @@
 |Listas ordenadas  |`1. 1` <br> `2. 2` <br> `3. 3` <br>  &emsp;`1. 3a`  |<ol> <li> 1 </li> <li> 2 </li> <li> 3 <ol> <li> 3a </li> </ol> </li> </ol> |
 |Tabelas  |[Gerador de tabela markdown](https://www.tablesgenerator.com/markdown_tables)  |<table> <tr> <th>AAA</th> <th>BBB</th> </tr> <tr> <td>AAA</td> <td>BBB</td> </tr> </table>  |
 |Imagens  |`![título da imagem](link da imagem)`  |![buzz](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJIWN8QIrCFHQAIzOji5Ve9gdtlFo8541CcyfDfdTODVIx1xEELw&s)  |
-|Gifs  |`![título do gif](não tem driferença de gif para imagem)`  |![woody](https://imgur.com/gallery/T3ftofy)  |
+|Gifs  |`![título do gif](não tem driferença de gif para imagem)`  |![woody](https://media.giphy.com/media/yVuMfrO3XcMq4/giphy.gif)  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
