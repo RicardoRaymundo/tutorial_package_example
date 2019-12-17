@@ -17,11 +17,11 @@
 |Citações em blocos  |>Citações em blocos <br> >>podem ser <br> >>>aninhadas <br> >>>>desta forma   |<blockquote>Citações em blocos<blockquote>podem ser<blockquote>aninhadas<blockquote>desta forma</blockquote></blockquote></blockquote></blockquote>  |
 |Listas não ordenadas  |`- 1` <br> `* 2` <br> `+ 3` <br>  &emsp;`- 3a`  |<ul> <li> 1 </li> <li> 2 </li> <li> 3 <ul> <li> 3a </li> </ul> </li> </ul> |
 |Listas ordenadas  |`1. 1` <br> `2. 2` <br> `3. 3` <br>  &emsp;`1. 3a`  |<ol> <li> 1 </li> <li> 2 </li> <li> 3 <ol> <li> 3a </li> </ol> </li> </ol> |
-|Tabelas  | %7C%20Tables%20%20%20%7C%20%20%20%20%20%20Are%20%20%20%20%20%20%7C%20%20Cool%20%7C%0A%7C----------%7C%3A-------------%3A%7C------%3A%7C%0A%7C%20col%201%20is%20%7C%20%20left-aligned%20%7C%20%241600%20%7C%0A%7C%20col%202%20is%20%7C%20%20%20%20centered%20%20%20%7C%20%20%20%2412%20%7C%0A%7C%20col%203%20is%20%7C%20right-aligned%20%7C%20%20%20%20%241%20%7C |<table> <tr> <th>AAA</th> <th>BBB</th> </tr> <tr> <td>AAA</td> <td>BBB</td> </tr> </table>  |
+|Tabelas  |[Gerador de tabela markdown](https://www.tablesgenerator.com/markdown_tables)|<table> <tr> <th>AAA</th> <th>BBB</th> </tr> <tr> <td>AAA</td> <td>BBB</td> </tr> </table>  |
 |Imagens  |`![título da imagem](link da imagem)`  |![buzz](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJIWN8QIrCFHQAIzOji5Ve9gdtlFo8541CcyfDfdTODVIx1xEELw&s)  |
 |Gifs  |`![título do gif](não tem diferença de gif para imagem)`  |<img src="https://media.giphy.com/media/yVuMfrO3XcMq4/giphy.gif" width="250"> |
-|Código inline  |<pre>a`a`a</pre>|  |
-|  |  |  |
+|Trecho de código inline  |`` `post` ``|`post`  |
+|Bloco de código inline  |```` ``` ```` <br> &emsp;void main() { <br> &emsp;&emsp; runApp(MyApp()); <br> &emsp; } <br> ```` ``` ````|  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
