@@ -21,7 +21,7 @@
 |Imagens  |`![título da imagem](link da imagem)`  |![buzz](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJIWN8QIrCFHQAIzOji5Ve9gdtlFo8541CcyfDfdTODVIx1xEELw&s)  |
 |Gifs  |`![título do gif](não tem diferença de gif para imagem)`  |<img src="https://media.giphy.com/media/yVuMfrO3XcMq4/giphy.gif" width="250"> |
 |Trecho de código inline  |`` `post` ``|`post`  |
-|Bloco de código inline  |```` ``` ```` <br> &emsp;void main() { <br> &emsp;&emsp; runApp(MyApp()); <br> &emsp; } <br> ```` ``` ````|  |
+|Bloco de código inline  |```` ``` ```` <br> &emsp;void main() { <br> &emsp;&emsp; runApp(MyApp()); <br> &emsp; } <br> ```` ``` ````| &emsp;void main() { <br> &emsp;&emsp; runApp(MyApp()); <br> &emsp; } <br>```   |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -40,3 +40,12 @@
 |  |  |  |
 |  |  |  |
 |  |  |  |
+
+<code>```<br>
+      {<br>
+      &nbsp;&nbsp;"firstName": "John",<br>
+      &nbsp;&nbsp;"lastName": "Smith",<br>
+      &nbsp;&nbsp;"age": 25<br>
+      }<br>
+      ```
+      </code>
