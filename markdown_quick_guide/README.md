@@ -72,15 +72,6 @@
 <td>Bloco de código inline</td>
 <td><code>``` </code> <br> &emsp;void main() { <br> &emsp;&emsp; runApp(MyApp()); <br> &emsp; } <br> <code>``` </code></td>
 <td>&emsp;void main() { <br> &emsp;&emsp; runApp(MyApp()); <br> &emsp; } <br></td>
-<td> 
-void main() {    runApp(MyApp());   } 
-</td>
-<td> 
-<!-- language: lang-js -->
-void main() {    
-    runApp(MyApp());   
-} 
-</td>
 </tr>
 <tr>
 <td></td>
