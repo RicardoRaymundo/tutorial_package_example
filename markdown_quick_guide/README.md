@@ -17,7 +17,7 @@
 |Citações em blocos  |>Citações em blocos <br> >>podem ser <br> >>>aninhadas <br> >>>>desta forma   |<blockquote>Citações em blocos<blockquote>podem ser<blockquote>aninhadas<blockquote>desta forma</blockquote></blockquote></blockquote></blockquote>  |
 |Listas não ordenadas  |`- 1` <br> `* 2` <br> `+ 3` <br>  &emsp;`- 3a`  |<ul> <li> 1 </li> <li> 2 </li> <li> 3 <ul> <li> 3a </li> </ul> </li> </ul> |
 |Listas ordenadas  |`1. 1` <br> `2. 2` <br> `3. 3` <br>  &emsp;`1. 3a`  |<ol> <li> 1 </li> <li> 2 </li> <li> 3 <ol> <li> 3a </li> </ol> </li> </ol> |
-|Tabelas  |`| Tables   |      Are      |  Cool |` <br> `|-------|:------:|------:|` <br> `| col 1 is |  left-aligned | $1600 |` <br> `| col 2 is |    centered   |   $12 |` <br> `| col 3 is | right-aligned |    $1 |`|<table> <tr> <th>AAA</th> <th>BBB</th> </tr> <tr> <td>AAA</td> <td>BBB</td> </tr> </table>  |
+|Tabelas  | `| Tables   |      Are      |  Cool |` <br> `|-------|:------:|------:|` <br> `| col 1 is |  left-aligned | $1600 |` <br> `| col 2 is |    centered   |   $12 |` <br> `| col 3 is | right-aligned |    $1 |` |<table> <tr> <th>AAA</th> <th>BBB</th> </tr> <tr> <td>AAA</td> <td>BBB</td> </tr> </table>  |
 |Imagens  |`![título da imagem](link da imagem)`  |![buzz](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJIWN8QIrCFHQAIzOji5Ve9gdtlFo8541CcyfDfdTODVIx1xEELw&s)  |
 |Gifs  |`![título do gif](não tem diferença de gif para imagem)`  |<img src="https://media.giphy.com/media/yVuMfrO3XcMq4/giphy.gif" width="250"> |
 |Código inline  |<pre>a`a`a</pre>|  |
